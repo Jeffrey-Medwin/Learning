@@ -1,0 +1,13 @@
+/.metadata/
+/build/
+/.metadata/
+**/log
+*.log
+**/*.log
+**/lck
+*.lck
+**/*.lck
+**/Servers
+Servers/Tomcat v9.0 Server at localhost-config/server.xml
+
+
