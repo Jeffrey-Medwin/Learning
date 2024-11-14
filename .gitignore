@@ -14,3 +14,16 @@ test_gen
 test_gen.caches
 TEST-*.xml
 junit*.properties
+
+# to ignore ecllipse on git
+/build/
+/.metadata/
+**/log
+*.log
+**/*.log
+**/lck
+*.lck
+**/*.lck
+**/Servers
+Servers/Tomcat v9.0 Server at localhost-config/server.xml
+
