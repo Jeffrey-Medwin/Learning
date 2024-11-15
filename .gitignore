@@ -17,7 +17,7 @@ junit*.properties
 
 # to ignore ecllipse on git
 /build/
-/.metadata/
+**/.metadata/**
 **/log
 *.log
 **/*.log
