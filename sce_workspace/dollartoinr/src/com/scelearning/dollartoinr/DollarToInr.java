@@ -6,6 +6,6 @@ public class DollarToInr implements ServiceAdapter {
 	
 	@Override
 	public void currencyConvert(double money) {
-		System.out.println(money * 84.43);
+		System.out.println("Dollar: " + money + " -> INR: " + (money * 84.43));
 	}
 }

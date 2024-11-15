@@ -7,6 +7,5 @@ public class Main {
 		
 		CurrencyConveterLoader conveterLoader = CurrencyConveterLoader.getInstance();
 		conveterLoader.convertCurrncy(money);
-		System.out.println("done");
 	}
 }
